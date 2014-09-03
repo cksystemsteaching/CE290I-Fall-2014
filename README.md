@@ -1,4 +1,4 @@
-CE290I 2014
-===========
+CE290I Fall 2014
+================
 
-Civil Systems: Control and Information Management
+Civil Systems: Control and Information Management, Computer Science for Non-Computer Scientists
